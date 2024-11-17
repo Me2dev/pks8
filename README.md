@@ -1,16 +1,16 @@
-# pks8
+# Программирование корпоративных систем
+Дисциплина: **Программирование корпоративных систем** <br>
+Семестр: 5 <br>
+Выполнил студент **ЭФБО-04-22 Медведев А. А.** <br>
 
-A new Flutter project.
+# Содержание работы
 
-## Getting Started
+Практическая работа №8
 
-This project is a starting point for a Flutter application.
+Клиентское приложение взаимодействует с сервером через HTTP-запросы <br>
+RESTful API: Созданы эндпоинты для управления продуктами, корзиной и избранным, включая получение, добавление, обновление и удаление данных <br>
+Добавлен сервер на FastAPI и клиент-серверная архитектура <br>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[SVID_20241016_151630_1.webm](https://github.com/user-attachments/assets/402a95c0-cdc8-4d0d-a647-44e946c216d7)
